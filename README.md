@@ -1,4 +1,7 @@
 
+《人人皆可Vibe编程：玩转氛围编程》
+[异步社区-书籍](https://www.epubit.com/bookDetails?id=UB8e84545189122)
+
 # 🔧 实用工具集
 ## 告别纸上谈兵：15分钟搞定这三个实用小工具
 [currency-wizard-calculator](https://github.com/shadowcz007/currency-wizard-calculator)
